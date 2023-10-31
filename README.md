@@ -4,7 +4,10 @@
 tentukan bilangan terbesar dari kedua bilangan tersebut
 menggunakan statement if.*
 
+![gambar](gambar/g1.png)
+
 #### Hasil program
+![gambar](gambar/ss1.png)
 
 ### Latihan 2
 
@@ -12,15 +15,21 @@ menggunakan statement if.*
  data (minimal 3 variable input atau lebih), kemudian tampilkan
  hasilnya secara berurutan mulai dari data terkecil.*
 
+ ![gambar](gambar/g2.png)
+
  `list.sort` Syntax ini berfungsi untuk mengurutkan data
 
  #### Hasil program
+ ![gambar](gambar/ss2.png)
+
 
  ## Tugas perulangan
 ### Latihan 1
 
 *Buat program dengan perulangan bertingkat (nested) for yang 
 menghasilkan output sebagai berikut:*
+
+![gambar](gambar/g3.png)
 
 1. Pendeklarasian variable
 ```python
@@ -41,6 +50,7 @@ for b in range(baris):
 print()    
 ```
 #### Hasil program
+![gambar](gambar/ss3.png)
 
 ### Latihan 2
 
@@ -49,8 +59,10 @@ print()
 *anda bisa menggunakan kombinasi while dan for untuk
  menyelesaikannya.*
 
- #### Hasil program
+ ![gambar[(gambar/g4.png)
 
+ #### Hasil program
+ ![gambar](gambar/ss4.png)
 
 - `import random` Untuk membuat bilangan acak
 - `n = int(input("Masukan nilai: "))` Menentukan jumlah input & di konversikan dalam bilangan bulat-dimasukan ke variable `n`
@@ -67,11 +79,16 @@ random_number = random.uniform(0,0.5)
 *Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
  tersebut tampilkan bilangan terbesarnya. Gunakan statement if.*
 
+ ![gambar](gambar/g5.png)
+
  - a,b,c sebagai inputan 
 - `max = a` Dekralasi variable
 - `if` jika b lebih besar dari a/max, maka max = a
 - `if` jika c lebih besar dari a/max, maka max = c
 
-#### Hasil program
+### Flowchart
+![gambar](gambar/flowchart.png)
 
+#### Hasil program
+![gambar](gambar/ss5.png)
 
