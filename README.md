@@ -59,7 +59,7 @@ print()
 *anda bisa menggunakan kombinasi while dan for untuk
  menyelesaikannya.*
 
- ![gambar[(gambar/g4.png)
+ ![gambar](gambar/g4.png)
 
  #### Hasil program
  ![gambar](gambar/ss4.png)
